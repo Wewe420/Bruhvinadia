@@ -1,38 +1,35 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "Bruhvinadia",
+		"leaderName": "Luan Kabashi",
+		"adjective": ["Bruhvinadiana"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "The Bruhmen have discovered land and decided to kick the bucket by making a Country. Luan Kabashi. May your reign belong and prospored.",
+		"startIntroPart2": "It seems that the Government. Who basicaly decided for this. Mightjust be as strong as your stability. And it might exist for over years. ",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Why do you have to be like the dictator from the 2022 series Dröm om Demokrati.",
+		"attacked": "Your Memes are not as good as mine.",
+		"defeated": "WTF.",
+		"introduction": "Yooooo. I remember you. I.. Basically come in peace.",
 		
-		"neutralHello": "How are you doing?",
+		"neutralHello": "Whats the haps?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralNo": ["No!","I refuse."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "What do you want now?",
+		"hateHello": "What do you Dong up for!",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateNo": ["YOU WRENIST!"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Lets finnaly barter for Memes in our own Peace.",
+		"tradeRequest": "Coin.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,255,255],
+		"innerColor": [0,0,50],
+		"unique": "Empire enters a [1000]-turn Golden Age",
+		"cities": ["Malmö", "Helsingborg", "Lund", "Karlskrona", "Kristianstad", "Landskrona", "Trelleborg"]
 	}
 ]
